@@ -1,0 +1,18 @@
+body{
+	font-family: cursive;
+	margin: 0;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	height: 100vh;
+	justify-content: center;
+	background-image: linear-gradient(to right,coral,gold, pink) ;
+}
+
+button{
+	border: 0px;
+	border-radius: 4px;
+	background: rgba(0,0,0,0.2);
+	width: 150px;
+	height: 100px;
+}
